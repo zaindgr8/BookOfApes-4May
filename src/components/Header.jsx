@@ -151,12 +151,11 @@ const MobileHeader = () => {
             </li>
             <li>
               <a
+                className="text-white font-text-body-2 text-lg block py-4 hover:text-gray-400 transition duration-300 no-underline"
                 target="_blank"
                 href="https://drive.google.com/file/d/1TITa0m9fxI4D0auqrhCF5Snx03faieA2/view?usp=sharing"
               >
-                <div className="relative text-xl leading-[150%] font-medium font-text-body-2 text-color-primary-color-2 text-center inline-block min-w-[119px] mq450:text-base mq450:leading-[24px]">
-                  Whitepaper
-                </div>
+                Whitepaper
               </a>
             </li>
           </ul>
